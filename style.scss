@@ -1,0 +1,26 @@
+.flix{
+        padding: 20%;
+        align-items: center;
+        justify-content: center;
+        margin: auto;
+        text-align: center;
+       
+        .btn{
+            align-items: center;
+            justify-content: center;
+            margin: auto;
+            width: 20%;
+            height: 30px;
+        }
+       .btn :active{
+            scale: 0.95;
+        }
+        .flix4{
+            display: flex;
+            justify-content: space-between;
+            padding: 0px 50px;
+            .flix3{
+                display: flex;
+            }
+        }
+}
